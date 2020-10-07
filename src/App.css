@@ -18,6 +18,7 @@ body{
 }
 .app_dropdown{
     background-color: white;
+    width:150px;
 }
 .app_header> h1{
     color: #fc3c3c;
@@ -46,5 +47,8 @@ body{
 @media(max-width:768px){
     .App{
         flex-direction: column;
+    }
+    .app_dropdown{
+        width:190px;
     }
 }
