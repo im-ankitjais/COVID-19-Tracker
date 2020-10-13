@@ -1,6 +1,6 @@
 
 # COVID-19 Tracker React Web-App.
-##Live preview:- https://covid-reactjs.netlify.app/
+## Live preview:- https://covid-reactjs.netlify.app/
 #### Technologies Used to Build this project:🚀
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
